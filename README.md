@@ -48,7 +48,7 @@ Target (x, y, z)
 | Method | Average Time |
 |------|-------------|
 | Analytical IK | ~20.9 µs |
-| ML IK | ~224.5 µs |
+| ML IK | ~156.3 µs |
 
 Both satisfy the real-time requirement (<10 ms).
 
@@ -88,4 +88,5 @@ C++17
 PyTorch
 ONNX
 ONNX Runtime
+
 CMake
