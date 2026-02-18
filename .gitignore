@@ -1,0 +1,17 @@
+# Build output
+build/
+
+# Executables
+*.exe
+*.dll
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large dataset
+python_ml/dataset.csv
+
+# OS files
+.DS_Store
+Thumbs.db
