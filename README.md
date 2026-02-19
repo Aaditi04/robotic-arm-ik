@@ -90,3 +90,7 @@ ONNX
 ONNX Runtime
 
 CMake
+
+## Trajectory Comparison
+
+![IK Comparison](docs/ik_comparison.png)
