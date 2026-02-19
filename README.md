@@ -64,6 +64,9 @@ build/ → CMake build output
 
 
 ---
+## Trajectory Comparison
+
+![IK Comparison](docs/ik_comparison.png)
 
 ## Build Instructions
 
@@ -91,6 +94,3 @@ ONNX Runtime
 
 CMake
 
-## Trajectory Comparison
-
-![IK Comparison](docs/ik_comparison.png)
